@@ -54,14 +54,14 @@ Core Concepts
       <h3>🏥 Smart Healthcare Remote Monitoring System</h3>
       <p>A full-stack healthcare monitoring platform with real-time patient tracking, ML-based predictions, and doctor–patient dashboards.</p>
       <p><strong>Stack:</strong> React.js · Node.js · Firebase · Machine Learning</p>
-      <p><a href="https://smart-health-rontend.onrender.com">🔗 Live Demo</a></p>
+      <p><a href="https://smart-health-rontend.onrender.com">🔗 Live Demo</a> · <a href="https://github.com/Harshshukla49/Smart_Health_Care">💻 GitHub Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Twitter Sentiment Analysis Platform</h3>
       <p>An NLP-based application for sentiment classification and insights from tweet text.</p>
       <p><strong>Stack:</strong> Python · NLP · Scikit-learn · NLTK · Streamlit</p>
       <p><strong>Resume-reported results:</strong> 1,000+ tweets processed; 12% improvement in classification accuracy.</p>
-      <p><em>GitHub repository link to be added.</em></p>
+      <p><a href="https://github.com/Harshshukla49/Advanced-Sentiment-Analysis-Platform">💻 GitHub Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -70,13 +70,13 @@ Core Concepts
       <p>An automated attendance system using facial recognition to identify students and reduce manual attendance work.</p>
       <p><strong>Stack:</strong> Python · OpenCV · Tkinter</p>
       <p><strong>Resume-reported results:</strong> 90% recognition accuracy; 85% reduction in manual effort.</p>
-      <p><a href="https://facial-recognition-based-on-attendace-bhnu.onrender.com">🔗 Live Project</a></p>
+      <p><a href="https://facial-recognition-based-on-attendace-bhnu.onrender.com">🔗 Live Project</a> · <a href="https://github.com/Harshshukla49/Facial-Recognition-Based-on-Attendace-Monitoring-System">💻 GitHub Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🕵️ Murder Mystery Detective Game</h3>
       <p>A full-stack web application featuring authentication, REST APIs, and SQLite query optimization.</p>
       <p><strong>Stack:</strong> Node.js · Express.js · SQLite</p>
-      <p><em>GitHub repository link to be added.</em></p>
+      <p><a href="https://github.com/Harshshukla49/Murder-Mystry">💻 GitHub Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ Core Concepts
       <p>A deep learning project for speech emotion recognition using MFCC-based acoustic features.</p>
       <p><strong>Stack:</strong> Python · CNN · RNN · LSTM</p>
       <p><strong>Resume-reported classification accuracy:</strong> 85%.</p>
-      <p><em>GitHub repository link to be added.</em></p>
+      <p><a href="https://github.com/Harshshukla49/Speech-recognition">💻 GitHub Repository</a></p>
     </td>
   </tr>
 </table>
@@ -163,6 +163,7 @@ Core Concepts
   <a href="https://harsh-portfolio-dp6i.onrender.com">Portfolio</a> ·
   <a href="https://github.com/Harshshukla49">GitHub</a> ·
   <a href="https://www.linkedin.com/in/harshshukla110724/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/harshshukla_4321/">LeetCode</a> ·
   <a href="mailto:shuklaharsh0207@gmail.com">Email</a>
 </p>
 <p align="center">
